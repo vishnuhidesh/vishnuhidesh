@@ -18,7 +18,7 @@
 <!-- <a href="https://twitter.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="vishnu_hidesh" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/vishnu-hidesh-906033239/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="vishnu-hidesh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vishnu.hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="vishnu_hidesh" height="30" width="40" /></a>
-<a href="https://instagram.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="vishnu_hidesh" height="30" width="40" /></a>
+<a href="https://instagram.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="vishnu_hidesh" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

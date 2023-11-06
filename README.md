@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="vishnu_hidesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu-hidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-hidesh" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="vishnu_hidesh" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/vishnu-hidesh-906033239/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="vishnu-hidesh" height="30" width="40" /></a>
 <a href="https://fb.com/vishnu_hidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnu_hidesh" height="30" width="40" /></a>
 <a href="https://instagram.com/vishnu_hidesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu_hidesh" height="30" width="40" /></a>
 </p>

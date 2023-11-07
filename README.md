@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **https://vishnuhidesh.github.io/port**
 
-- 💬 Ask me about **Django, React, Frontend Development, Bootstrap, etc**
+- 💬 Ask me about **Django, React, Frontend Development, Bootstrap, Photoshop etc**
 
 - 📫 Reach me via **vishnuhideshnt@gmail.com**
 

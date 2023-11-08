@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Hidesh</h1>
-<h3 align="center">A passionate fullstack developer from Kerala, India</h3>
+<h3 align="center">A passionate fullstack developer from Kannur, Kerala, India</h3>
 
-- 🔭 I’m currently working on a project named **FitFuel.Ai, An all in one food and nutrition app.**
+- 🔭 I’m currently working on a project named **FitFuel, An all in one AI food and nutrition app.**
 
 - 🌱 I’m currently learning **PyTorch**
 

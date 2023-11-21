@@ -13,6 +13,8 @@
 
 - ⚡ **I like to talk to everyone.**
   <br>
+  <br>
+  <br>
   ![](https://komarev.com/ghpvc/?username=vishnuhidesh)
 
 <h3 align="left">Languages and Tools:</h3>

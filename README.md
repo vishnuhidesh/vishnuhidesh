@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👨‍💻 All of my projects are available at **https://vishnuhidesh.github.io/port**
+- 👨‍💻 All of my projects are available at **https://github.com/vishnuhidesh**
 
 - 💬 Ask me about **Django, React, Frontend Development, Bootstrap, Photoshop etc**
 

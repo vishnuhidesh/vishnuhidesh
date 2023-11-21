@@ -12,7 +12,6 @@
 - 📫 Reach me via **vishnuhideshnt@gmail.com**
 
 - ⚡ **I like to talk to everyone.**
-<br>
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=vishnuhidesh)

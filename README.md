@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/vishnu-hidesh-906033239/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="vishnu-hidesh" height="30" width="30" /></a>
 <a href="https://www.facebook.com/vishnu.hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="vishnu_hidesh" height="30" width="30" /></a>
 <a href="https://instagram.com/vishnu_hidesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="vishnu_hidesh" height="34" width="34" /></a>
-</p>
+</p> 
 <br> 
   
 ### Languages 

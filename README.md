@@ -3,11 +3,11 @@
 
 - ⚛️ **Cybersecurity Researcher at Offenso Hackers Academy**
 
-- 🔧 Passionate about **Web Security, SIEM, Threat Hunting, and Malware Analysis**
+- 🔧 Passionate about **Network Security, SIEM, Threat Hunting, and Malware Analysis**
 
-- 👁️ Exploring **Red Teaming, Cloud Security, and FortiSIEM**
+- 👁️ Exploring **Red Teaming, Cloud Security, and SIEM**
 
-- 📚 Currently working on **Developing Web Security Labs and Training Modules**
+- 📚 Currently working on **Building an all in one tool for Cybersecurity**
 
 - ✨ Bug Hunter | OSINT Enthusiast | Reverse Engineering Learner
 

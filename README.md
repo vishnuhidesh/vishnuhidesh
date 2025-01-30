@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Hidesh</h1> 
-<h3 align="center">Cybersecurity Researcher | Penetration Tester | Trainer</h3>
+<h3 align="center">Cybersecurity Researcher | Penetration Tester | Network Security | Security Operations</h3>
 
-- ⚛️ **Cybersecurity Researcher & Trainer at Offenso Hackers Academy**
+- ⚛️ **Cybersecurity Researcher at Offenso Hackers Academy**
 
 - 🔧 Passionate about **Web Security, SIEM, Threat Hunting, and Malware Analysis**
 
@@ -11,7 +11,7 @@
 
 - ✨ Bug Hunter | OSINT Enthusiast | Reverse Engineering Learner
 
-- 💼 **Offenso Certified Security Professional | Legal Bug Bounty Hunter**
+- 💼 **NASSCOM NCVET Security Analyst V3 | Offenso Certified Security Professional**
 
 - 📈 Check out my projects & research: **[GitHub](https://github.com/vishnuhidesh)**
 
@@ -19,7 +19,6 @@
 
 - 📧 Reach me via **vishnuhideshnt@gmail.com**
 
-- ⚡ **Always eager to learn, hack, and secure the digital world!**
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=vishnuhidesh)

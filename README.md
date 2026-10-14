@@ -15,20 +15,6 @@
   </a>
 </p>
 
-## 🏆 CompTIA CySA+ Certified
-
-<p align="center">
-  <a href="https://www.credly.com/badges/52c549e3-5adc-43fd-98c0-5bff60d5799d/public_url">
-    <img src="https://cdn.credly.com/assets/utilities/embed.js" alt="View my CompTIA CySA+ badge on Credly" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/52c549e3-5adc-43fd-98c0-5bff60d5799d/public_url">
-    <img src="https://img.shields.io/badge/VERIFY_BADGE-Credly-2D7DD2?style=for-the-badge" alt="Verify on Credly" />
-  </a>
-</p>
-
 ---
 
 ## `$ whoami`

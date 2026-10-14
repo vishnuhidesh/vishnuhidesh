@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Vishnu Hidesh
 
-<h3 align="center">Senior Cybersecurity Researcher • Penetration Tester • Security Operations</h3>
+<h3 align="center">Senior Cybersecurity Researcher | Penetration Tester | Security Operations</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+them.;Building+tools+to+make+security+better.;Hunting+threats.+Investigating+systems.;Researching+the+art+of+cybersecurity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Cybersecurity+Researcher;Breaking+Things+to+Understand+Them;Building+Tools+for+Better+Security;Threat+Hunting+%7C+Security+Research;Automating+the+Future+of+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,22 +17,23 @@
 
 ---
 
-## `whoami` — About Me
+## `$ whoami`
 
-I'm a cybersecurity researcher and penetration tester passionate about understanding how systems fail, how attackers exploit weaknesses, and how defenders can detect and respond to threats.
+I'm a **Senior Cybersecurity Researcher at Offenso Hackers Academy**, passionate about discovering vulnerabilities, understanding adversarial techniques, strengthening security operations, and building practical security solutions.
 
-My interests span offensive security, security operations, threat hunting, network security, and security automation. I enjoy going beyond using existing tools to understand their internals and build practical solutions of my own.
+My work and interests span offensive security, network security, SIEM, threat hunting, security automation, and vulnerability research. I enjoy exploring how attacks work, how defenders can detect them, and how custom tools can make security workflows more effective.
 
-- 🔬 **Research:** Penetration testing, web security, network security, and attack techniques.
+- 🔬 **Research:** Penetration testing, web security, network security, and vulnerability analysis.
 - 🛡️ **Defence:** SIEM, threat hunting, security monitoring, and incident investigation.
-- ⚙️ **Engineering:** Python automation, security utilities, and tool development.
-- 🧠 **Exploration:** Malware analysis, reverse engineering, OSINT, and cloud security.
+- ⚙️ **Engineering:** Python automation, custom security utilities, and tool development.
+- 🧬 **Exploration:** Malware analysis, OSINT, reverse engineering, and cloud security.
 - 🚀 **Currently building:** An all-in-one cybersecurity tool.
-- 🎯 **Goal:** Build practical security projects, publish meaningful research, and grow as an industry-focused cybersecurity professional.
+- 🎓 **Certification:** CompTIA CySA+ certified.
+- 🎯 **Focus:** Building practical projects, publishing technical research, and advancing cybersecurity engineering.
 
 ---
 
-## `./areas-of-interest` — What I Work On
+## `$ cat expertise.txt`
 
 <table>
 <tr>
@@ -41,20 +42,22 @@ My interests span offensive security, security operations, threat hunting, netwo
 ### 🔴 Offensive Security
 
 - Web application penetration testing
-- Network reconnaissance and exploitation
-- Vulnerability research
+- Network reconnaissance
+- Vulnerability assessment
+- Exploitation and privilege escalation
 - Active Directory security
 - Red team methodologies
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 Defensive Security
+### 🔵 Security Operations
 
-- SIEM and log analysis
+- SIEM implementation and analysis
 - Threat hunting
-- Detection engineering
-- Incident investigation
+- Security event investigation
+- Log analysis and correlation
+- Incident response fundamentals
 - Threat intelligence
 
 </td>
@@ -64,22 +67,23 @@ My interests span offensive security, security operations, threat hunting, netwo
 
 ### ⚙️ Security Engineering
 
-- Python security automation
+- Python-based security automation
 - Custom security tool development
+- Security workflow automation
 - API and web security testing
 - Lab and CTF development
-- Workflow automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Research & Exploration
+### 🧬 Research & Analysis
 
 - Malware analysis
 - Digital forensics
 - OSINT investigations
 - Reverse engineering
 - Cloud security
+- Security experimentation
 
 </td>
 </tr>
@@ -87,7 +91,7 @@ My interests span offensive security, security operations, threat hunting, netwo
 
 ---
 
-## `ls ./tech-stack` — Tools & Technologies
+## `$ ls ./tech-stack`
 
 ### Offensive Security
 
@@ -126,21 +130,46 @@ My interests span offensive security, security operations, threat hunting, netwo
 
 ---
 
-## `cat ./featured-projects.md` — Featured Projects
+## `$ cat ./certifications.md`
 
-I believe the best way to demonstrate cybersecurity skills is to build, document, and share practical work.
+### 🏆 CompTIA CySA+ Certified
 
-<!-- Replace these placeholders with your actual repository links and project details. -->
+<p align="center">
+  <a href="https://www.credly.com/badges/52c549e3-5adc-43fd-98c0-5bff60d5799d/public_url">
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+ certified — verify on Credly" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/52c549e3-5adc-43fd-98c0-5bff60d5799d/public_url">
+    <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-Credly-2D7DD2?style=for-the-badge" alt="Verify CompTIA CySA+ credential" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Cybersecurity analysis, threat detection, vulnerability management, and security operations.</i>
+</p>
+
+### Additional Credentials
+
+- NASSCOM NCVET Security Analyst V3
+- Offenso Certified Security Professional
+
+---
+
+## `$ cat ./featured-projects.md`
+
+I believe cybersecurity expertise is best demonstrated through practical projects, original research, useful tools, and clear technical documentation.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 Cybersecurity Toolkit
+### 🧰 All-in-One Cybersecurity Tool
 
-A work in progress focused on bringing useful security capabilities into one practical toolkit.
+A work in progress focused on bringing useful security capabilities together in a modular toolkit.
 
-**Focus areas**
+**Areas of interest**
 - Security automation
 - Reconnaissance utilities
 - Reusable workflows
@@ -151,11 +180,11 @@ A work in progress focused on bringing useful security capabilities into one pra
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Security Research & Automation
+### 🔍 Security Automation & Utilities
 
-Practical scripts and utilities designed to simplify repetitive security tasks and support investigations.
+Scripts and tools aimed at simplifying repetitive security tasks and supporting technical investigations.
 
-**Focus areas**
+**Areas of interest**
 - Python scripting
 - Log processing
 - Reconnaissance
@@ -168,15 +197,15 @@ Practical scripts and utilities designed to simplify repetitive security tasks a
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Detection & SIEM Labs
+### 🛡️ SIEM & Threat Detection Labs
 
-Hands-on exploration of security monitoring, log analysis, and detection workflows.
+Practical exploration of security monitoring, event analysis, and detection workflows.
 
-**Focus areas**
+**Areas of interest**
 - SIEM investigations
-- Event analysis
+- Log analysis
 - Threat detection
-- Lab documentation
+- Detection engineering
 
 **Status:** Research & experimentation
 
@@ -185,13 +214,13 @@ Hands-on exploration of security monitoring, log analysis, and detection workflo
 
 ### 🧪 Security Labs & CTFs
 
-Practical security experiments designed to explore vulnerabilities, attack paths, and defensive concepts in controlled environments.
+Controlled environments for exploring vulnerabilities, attack paths, and defensive security concepts.
 
-**Focus areas**
+**Areas of interest**
 - Vulnerability analysis
 - Lab development
 - Exploitation techniques
-- Technical documentation
+- Technical write-ups
 
 **Status:** Ongoing
 
@@ -200,29 +229,16 @@ Practical security experiments designed to explore vulnerabilities, attack paths
 </table>
 
 <p align="center">
-  <i>Explore my repositories for source code, experiments, and technical documentation.</i>
-</p>
-
-<p align="center">
   <a href="https://github.com/vishnuhidesh?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore all projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my repositories" />
   </a>
 </p>
 
----
-
-## `git log --learning` — Certifications & Credentials
-
-<p>
-  <img src="https://img.shields.io/badge/NASSCOM-NCVET_Security_Analyst_V3-0A66C2?style=for-the-badge" alt="NASSCOM NCVET Security Analyst V3" />
-  <img src="https://img.shields.io/badge/OFFENSO-Certified_Security_Professional-111827?style=for-the-badge" alt="Offenso Certified Security Professional" />
-</p>
-
-I believe certifications are most valuable when backed by practical skills, independent research, and demonstrable projects.
+> Replace the project descriptions and statuses with links to your actual repositories as you publish them. These cards describe project areas, not independently verified public projects.
 
 ---
 
-## `git status` — GitHub Activity
+## `$ git log --activity`
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuhidesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="Vishnu's GitHub statistics" />
@@ -239,9 +255,9 @@ I believe certifications are most valuable when backed by practical skills, inde
 
 ---
 
-## `connect --with vishnu` — Let's Connect
+## `$ connect --with vishnu`
 
-I'm always interested in cybersecurity research, practical security engineering, interesting technical projects, and opportunities to collaborate.
+I'm interested in cybersecurity research, security engineering, practical tool development, and opportunities to collaborate on meaningful security projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-hidesh-906033239/">
@@ -259,7 +275,7 @@ I'm always interested in cybersecurity research, practical security engineering,
 </p>
 
 <p align="center">
-  <i>Understand the attack. Build the defence. Automate the process.</i>
+  <b>Understand the attack. Build the defence. Automate the process.</b>
 </p>
 
 <p align="center">

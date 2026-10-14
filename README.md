@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishnuhidesh">
-    <img src="https://komarev.com/ghpvc/?username=vishnuhidesh&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=vishnuhidesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge)
   <a href="https://github.com/vishnuhidesh?tab=followers">
     <img src="https://img.shields.io/github/followers/vishnuhidesh?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers" />
   </a>

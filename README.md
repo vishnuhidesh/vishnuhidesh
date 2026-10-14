@@ -240,10 +240,6 @@ Controlled environments for exploring vulnerabilities, attack paths, and defensi
   <img src="https://streak-stats.demolab.com?user=vishnuhidesh&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuhidesh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Vishnu's GitHub Contribution Graph" width="100%" />
-</p>
-
 ---
 
 ## `$ connect --with vishnu`

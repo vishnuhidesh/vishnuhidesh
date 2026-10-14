@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Cybersecurity+Researcher;Breaking+Things+to+Understand+Them;Building+Tools+for+Better+Security;Threat+Hunting+%7C+Security+Research;Automating+the+Future+of+Cybersecurity" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=vishnuhidesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge)
-  <a href="https://github.com/vishnuhidesh?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishnuhidesh?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers" />
-  </a>
-</p>
-
 ---
 
 ## `$ whoami`
